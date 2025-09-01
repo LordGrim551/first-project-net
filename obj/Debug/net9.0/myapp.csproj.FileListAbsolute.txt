@@ -54,3 +54,12 @@ C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\refint\myapp.dll
 C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.pdb
 C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.genruntimeconfig.cache
 C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\ref\myapp.dll
+C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.RazorAssemblyInfo.cache
+C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.RazorAssemblyInfo.cs
+C:\Users\lucaj\Desktop\first-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\lucaj\Desktop\first-project\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucaj\Desktop\first-project\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucaj\Desktop\first-project\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.csproj.AssemblyReference.cache
+C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucaj\Desktop\first-project\obj\Debug\net9.0\myapp.csproj.Up2Date
